@@ -1,4 +1,4 @@
-### OLÁ, MUNDÃOOOO!!! 👋
+## OLÁ, MUNDÃOOOO!!! 👋
 
 Meu nome é Vítor. Seja bem vindo ao meu cantinho aqui no GitHub.
 
@@ -11,10 +11,10 @@ Aqui você vai encontrar meus projetos de estudo!
 - 🔭 Sou FULLSTACK, mas tenho mais experiencia com Backend/Mobile.
 - ☕ Tópico dedicado ao cafézinho diário que me ajuda quase todo dia.
 
-## EXPERIMENTE MEUS JOGOS...
+## EXPERIMENTE MEUS JOGOS!
 
 
-# CELLY
+### CELLY
 
 Clique na imagem para explorar o universo celular com a Celly!
 
