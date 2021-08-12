@@ -23,3 +23,13 @@ Clique na imagem para explorar o universo celular com a Celly!
 Controles:
 - Use o ponteiro do mouse para direcionar a Celly. 
 - Use ESPAÇO para ganhar impulso.
+
+### 360º
+
+Clique na imagem para impedir que o planeta entre em colapso com o BOOM-bot!
+
+[![TEXTO ALTERNATIVO](https://img.itch.zone/aW1nLzY2NDg2NTgucG5n/original/UUUnWn.png)](https://bardo.itch.io/360)
+
+Controles:
+- Use as direcionais para controlar o BOOM-bot. 
+- Use ESPAÇO para ganhar um rápido impulso.
