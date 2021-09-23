@@ -6,25 +6,23 @@ Sou um desenvolvedor de Salvador, Bahia. Gosto de me aventurar em todos os stack
 
 Aqui você vai encontrar meus projetos de estudo!
 
-- 🧠 No momento tenho me aventurado bastante com Flutter.
+- 🧠 No momento estou estudando o ecossistema .NET intensamente.
 - 🥰 Estou sempre treinando e aprendendo Unity Engine.
 - 🔭 Sou FULLSTACK, mas tenho mais experiencia com Backend/Mobile.
-- ☕ Tópico dedicado ao cafézinho diário que me ajuda quase todo dia.
 
-## EXPERIMENTE MEUS JOGOS!
+## MEUS JOGOS!
 
 
 ### CELLY
 
-Clique na imagem para explorar o universo celular com a Celly!
+Celly é um roguelike ambientado em universo celular, onde a celula deve se desenvolver e vencer todos os desafios.
 
-[![TEXTO ALTERNATIVO](https://user-images.githubusercontent.com/36903503/118201465-dd0bd400-b42d-11eb-99f8-113c0d774d96.png)](https://vfig29.github.io/CELLY-BUILD/)
-
-Controles:
-- Use o ponteiro do mouse para direcionar a Celly. 
-- Use ESPAÇO para ganhar impulso.
+(Build ainda em desenvolvimento:)
+[![TEXTO ALTERNATIVO](https://user-images.githubusercontent.com/36903503/118201465-dd0bd400-b42d-11eb-99f8-113c0d774d96.png)]
 
 ### 360º
+
+360º foi um jogo criado em 1 semana para a GameJAAJ 6.
 
 Clique na imagem para impedir que o planeta entre em colapso com o BOOM-bot!
 
