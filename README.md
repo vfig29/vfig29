@@ -19,7 +19,7 @@ Celly é um roguelike ambientado em universo celular, onde a celula deve se dese
 
 (Build ainda em desenvolvimento)
 
-[![TEXTO ALTERNATIVO](https://user-images.githubusercontent.com/36903503/118201465-dd0bd400-b42d-11eb-99f8-113c0d774d96.png)]
+![TEXTO ALTERNATIVO](https://user-images.githubusercontent.com/36903503/118201465-dd0bd400-b42d-11eb-99f8-113c0d774d96.png)
 
 ### 360º
 
