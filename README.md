@@ -6,20 +6,12 @@ Sou um desenvolvedor de Salvador, Bahia. Gosto de me aventurar em todos os stack
 
 Aqui você vai encontrar meus projetos de estudo!
 
-- 🧠 No momento estou estudando o ecossistema .NET intensamente.
-- 🥰 Estou sempre treinando e aprendendo Unity Engine.
-- 🔭 Sou FULLSTACK, mas tenho mais experiencia com Backend/Mobile.
+- 🥰 Estudo e desenvolvo games através de motores gráficos.
+- 🧠 Meu foco de estudo atualmente é em computação gráfica aplicada através de shaders.
+- 🔭 Tenho experiencia em engenharia de software como FULLSTACK, sempre enfatizei ter boas práticas e entendimento teórico, além da prática.
 
 ## MEUS JOGOS!
 
-
-### CELLY
-
-Celly é um roguelike ambientado em universo celular, onde a celula deve se desenvolver e vencer todos os desafios.
-
-(Build ainda em desenvolvimento)
-
-![TEXTO ALTERNATIVO](https://user-images.githubusercontent.com/36903503/118201465-dd0bd400-b42d-11eb-99f8-113c0d774d96.png)
 
 ### 360º
 
