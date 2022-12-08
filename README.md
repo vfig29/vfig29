@@ -6,9 +6,10 @@ Sou um desenvolvedor de Salvador, Bahia. Gosto de me aventurar em todos os stack
 
 Aqui você vai encontrar meus projetos de estudo!
 
-- 🥰 Estudo e desenvolvo games através de motores gráficos.
-- 🧠 Meu foco de estudo atualmente é em computação gráfica aplicada através de shaders.
-- 🔭 Tenho experiencia em engenharia de software como FULLSTACK, sempre enfatizei ter boas práticas e entendimento teórico, além da prática.
+🎮 Estudo e desenvolvo games através de motores gráficos, tenho maior autonomia com Unity Engine.
+🖥️ Tenho prática com diversas linguagens programação, destacando-se o C# direcionado para o ecossistema .NET.
+🧠 Meu foco de estudo atualmente é em computação gráfica aplicada através de shaders.
+👨‍💻 Tenho experiencia em engenharia de software, tenho domínio como FULLSTACK e sempre enfatizei ter boas práticas e entendimento teórico, além de por a mão na massa!
 
 ## MEUS JOGOS!
 
