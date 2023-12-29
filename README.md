@@ -1,27 +1,12 @@
-## OLÁ, MUNDÃOOOO!!! 👋
+## OLÁ!!! 👋
 
-Meu nome é Vítor. Seja bem vindo ao meu cantinho aqui no GitHub.
+Meu nome é Vítor. Seja bem vindo ao meu GitHub.
 
-Sou um desenvolvedor de Salvador, Bahia. Gosto de me aventurar em todos os stacks, e tenho um espaço no coração pra cada um deles, mas o Desenvolvimento de Jogos tem um papel especial na minha história.
+Sou um desenvolvedor de Salvador, Bahia. Tenho experiência com Front-end, back-end, banco de dados, e várias áreas da computação. Mas a computação gráfica tem um papel especial na minha história, e é onde eu me aventuro profissionalmente hoje.
 
 Aqui você vai encontrar meus projetos de estudo!
 
-- 🎮 Estudo e desenvolvo games através de motores gráficos, tenho maior autonomia com Unity Engine.
-- 🖥️ Tenho prática com diversas linguagens programação, destacando-se o C# direcionado para o ecossistema .NET.
+- 🎮 Desenvolvo games através de motores gráficos, tenho maior autonomia com Unity Engine.
+- 🖥️ Tenho prática com diversas linguagens programação: C#, Javascript, Rust. Frameworks de diversas funções tanto para backend e/ou frontend.
 - 🧠 Meu foco de estudo atualmente é em computação gráfica aplicada através de shaders.
-- 👨‍💻 Tenho experiencia em engenharia de software, tenho domínio como FULLSTACK e sempre enfatizei ter boas práticas e entendimento teórico, além de por a mão na massa!
 
-## MEUS JOGOS!
-
-
-### 360º
-
-360º foi um jogo criado em 1 semana para a GameJAAJ 6.
-
-Clique na imagem para impedir que o planeta entre em colapso com o BOOM-bot!
-
-[![TEXTO ALTERNATIVO](https://img.itch.zone/aW1nLzY2NDg2NTgucG5n/original/UUUnWn.png)](https://bardo.itch.io/360)
-
-Controles:
-- Use as direcionais para controlar o BOOM-bot. 
-- Use ESPAÇO para ganhar um rápido impulso.
